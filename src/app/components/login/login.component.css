@@ -27,8 +27,7 @@ img {
 
 button {
     margin-top: 1.5rem;
-    background: linear-gradient(90deg, rgba(35,34,40,1) 0%, rgba(41,36,36,0.76234243697479) 100%);
-
+    background: linear-gradient(90deg, rgb(137, 134, 145) 0%, rgba(75, 80, 75, 0.762) 100%);
 }
 
 .full-width {
