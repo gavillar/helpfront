@@ -19,11 +19,18 @@ export class LoginComponent implements OnInit {
 
   }
 
+
   constructor() { }
+
 
   ngOnInit(): void {
     
   }
+
+  login() {
+  
+  }
+
 
   validFields(): boolean {
     if(this.email.valid && this.password.valid)

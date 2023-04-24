@@ -33,6 +33,7 @@ import { TecnicosListComponent } from './components/tecnicos/tecnicos-list/tecni
 import { LoginComponent } from './components/login/login.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
