@@ -1,4 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+<<<<<<< HEAD
 @import '../node_modules/ngx-toastr/toastr.css';
+=======
+@import '../node_modules/ngx-toastr/toastr.css'
+>>>>>>> 6ad3384ac126299eab8796be3ca5c92b62577b84
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
