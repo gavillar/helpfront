@@ -16,17 +16,10 @@
     "@angular/core": "~13.4.0",
     "@angular/forms": "~13.4.0",
     "@angular/material": "^12.2.13",
-<<<<<<< HEAD
     "@angular/platform-browser": "~12.0.3",
     "@angular/platform-browser-dynamic": "~12.0.3",
     "@angular/router": "~12.0.3",
     "ngx-toastr": "^14.0.0",
-=======
-    "@angular/platform-browser": "~13.4.0",
-    "@angular/platform-browser-dynamic": "~13.4.0",
-    "@angular/router": "~13.4.0",
-    "ngx-toastr": "^16.1.1",
->>>>>>> 6ad3384ac126299eab8796be3ca5c92b62577b84
     "rxjs": "~6.6.0",
     "tslib": "^2.1.0",
     "zone.js": "~0.11.4"
